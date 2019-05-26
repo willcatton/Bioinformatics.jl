@@ -1,0 +1,6 @@
+authors = ["Will Catton <will.catton@metservice.com>"]
+name = "Bioinformatics"
+uuid = "3d747a20-7fa3-11e9-0ece-57ccb5d0b177"
+version = "0.1.0"
+
+[deps]
